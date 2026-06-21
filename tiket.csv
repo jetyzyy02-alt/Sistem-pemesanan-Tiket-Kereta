@@ -1,6 +1,0 @@
-id_tiket,nama,asal,tujuan,tanggal,jam,kelas,harga,status
-2541,Muhamad Sahrul,Karawang,Yogyakarta,21-06-2026,14.00,bisnis,200000,Lunas
-2542,Andrean,Cikarang,Cikampek,22-06-2026,15.00,eksekutif,300000,Lunas
-2543,Yusuf Ali,Karawang,Bogor,24-06-2026,08.15,ekonomi,100000,Lunas
-2542,Gilang,Cikarang,Universitas Indonesia,21-06-2026,07.45,bisnis,200000,Lunas
-2544,Elia,Gambir,Sudirman,25-06-2026,08.45,eksekutif,300000,Lunas
